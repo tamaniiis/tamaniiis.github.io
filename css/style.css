@@ -1218,6 +1218,8 @@ width: 17px ;
 
 padding-bottom: 0px ;
 
+z-index: 99999;
+
 }
 
 .social a:hover{
